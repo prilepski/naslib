@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/naslib.dir/naslib.cpp.o  -o build/naslib -rdynamic 

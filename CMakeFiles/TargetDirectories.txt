@@ -1,3 +1,0 @@
-/home/dmitri/workspace/naslib/CMakeFiles/edit_cache.dir
-/home/dmitri/workspace/naslib/CMakeFiles/rebuild_cache.dir
-/home/dmitri/workspace/naslib/CMakeFiles/naslib.dir
